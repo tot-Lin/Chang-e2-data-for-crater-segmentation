@@ -1,1 +1,2 @@
-# Change-data-for-crater-segmentation
+# Chang'e2-data-for-crater-segmentation
+inculde DEM DOM mask
